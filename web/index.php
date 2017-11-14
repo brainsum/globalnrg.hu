@@ -35,6 +35,8 @@ $filename_array = array (""=>"main_page",
 	"uzletszabalyzat"=>"uzletszabalyzat",
 	"dokumentumok"=>"dokumentumok",
 	"2006-evi-beszamolo"=>"2006-evi-beszamolo",
+	"galeria-turaauto2017"=>"galeria-turaauto2017",
+	"tanusitok"=>"tanusitok",
 	"belepes"=>"belepes",
 );
 

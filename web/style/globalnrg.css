@@ -73,7 +73,7 @@ a:hover {
 }
 
 .menu {
-	height:220px;
+	height:300px;
 	padding:30px;
 	padding-left:60px;
 	padding-top:62px;
@@ -81,9 +81,6 @@ a:hover {
 
 .menu_item {
 	padding-bottom:9px;
-}
-
-.menu_item a, .menu_item a:link, .menu_item a:visited {
 }
 
 .menu_item a:hover {
@@ -187,5 +184,20 @@ a:hover {
 
 div.menu_item6hu{
   display:none;
+}
+
+.gallery table {
+	border:none;
+}
+.gallery table td {
+	width: 48%;
+	padding: 1%;
+	text-align: center;
+}
+.gallery img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
 }
 
