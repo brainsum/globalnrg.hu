@@ -186,6 +186,9 @@ div.menu_item6hu{
   display:none;
 }
 
+.gallery {
+	margin-bottom: 30px;
+}
 .gallery table {
 	border:none;
 }
